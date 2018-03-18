@@ -1,0 +1,171 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl F111glss
+Ka  0.1 0.2 0.0
+Kd  0.1 0.2 0.0
+Ks  1.0 1.0 1.0
+d  0.5
+Ns  10.0
+illum 2
+#
+newmtl F111bird
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd F111BIRD.JPG
+map_d F111BIRO.JPG
+#
+newmtl F111lUH
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd F111LUH1.JPG
+map_d F111LUH2.JPG
+#
+newmtl F111deth
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  0.0
+Ns  0.0
+illum 2
+map_Kd F111DETH.JPG
+map_d F111DTHO.JPG
+#
+newmtl F111star
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd F111STR.JPG
+map_d F111STRO.JPG
+#
+newmtl F111burn
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd F111BURN.JPG
+#
+newmtl F111cnpy
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd F111DARK.JPG
+#
+newmtl F111fram
+Ka  0.4 0.7 0.7
+Kd  0.4 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl F111dark
+Ka  0.1 0.2 0.2
+Kd  0.1 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+newmtl F111rUH
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd F111RUH1.JPG
+map_d F111RUH2.JPG
+#
+newmtl F111piz
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd F111PIZ.JPG
+#
+newmtl F111down
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+map_Kd F111DOWN.JPG
+#
+newmtl F111tail
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+map_Kd F111TAIL.JPG
+#
+newmtl F111blck
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl F111gear
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl F111lthr
+Ka  0.6 0.1 0.0
+Kd  0.6 0.1 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.7
+illum 2
+#
+newmtl F111top
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+map_Kd F111TOP.JPG
+#
+newmtl F111iron
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl F111red
+Ka  0.6 0.3 0.3
+Kd  0.6 0.3 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.5
+illum 2
+#
+# EOF

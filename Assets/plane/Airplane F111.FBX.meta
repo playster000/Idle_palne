@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 45087d2fa1ca64c48aa897702d7f6369
+timeCreated: 1502011220
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: F111bird
+    100004: F111blck
+    100006: F111burn
+    100008: F111cpy1
+    100010: F111cpy2
+    100012: F111deth
+    100014: F111down
+    100016: F111fram
+    100018: F111gear
+    100020: F111gls1
+    100022: F111gls2
+    100024: F111gls3
+    100026: F111gls4
+    100028: F111iron
+    100030: F111piz
+    100032: F111red
+    100034: F111seat
+    100036: F111star
+    100038: F111tail
+    100040: F111top
+    100042: F111uh_l
+    100044: F111uh_r
+    400000: //RootNode
+    400002: F111bird
+    400004: F111blck
+    400006: F111burn
+    400008: F111cpy1
+    400010: F111cpy2
+    400012: F111deth
+    400014: F111down
+    400016: F111fram
+    400018: F111gear
+    400020: F111gls1
+    400022: F111gls2
+    400024: F111gls3
+    400026: F111gls4
+    400028: F111iron
+    400030: F111piz
+    400032: F111red
+    400034: F111seat
+    400036: F111star
+    400038: F111tail
+    400040: F111top
+    400042: F111uh_l
+    400044: F111uh_r
+    2300000: F111bird
+    2300002: F111blck
+    2300004: F111burn
+    2300006: F111cpy1
+    2300008: F111cpy2
+    2300010: F111deth
+    2300012: F111down
+    2300014: F111fram
+    2300016: F111gear
+    2300018: F111gls1
+    2300020: F111gls2
+    2300022: F111gls3
+    2300024: F111gls4
+    2300026: F111iron
+    2300028: F111piz
+    2300030: F111red
+    2300032: F111seat
+    2300034: F111star
+    2300036: F111tail
+    2300038: F111top
+    2300040: F111uh_l
+    2300042: F111uh_r
+    3300000: F111bird
+    3300002: F111blck
+    3300004: F111burn
+    3300006: F111cpy1
+    3300008: F111cpy2
+    3300010: F111deth
+    3300012: F111down
+    3300014: F111fram
+    3300016: F111gear
+    3300018: F111gls1
+    3300020: F111gls2
+    3300022: F111gls3
+    3300024: F111gls4
+    3300026: F111iron
+    3300028: F111piz
+    3300030: F111red
+    3300032: F111seat
+    3300034: F111star
+    3300036: F111tail
+    3300038: F111top
+    3300040: F111uh_l
+    3300042: F111uh_r
+    4300000: F111gls4
+    4300002: F111bird
+    4300004: F111uh_l
+    4300006: F111deth
+    4300008: F111star
+    4300010: F111burn
+    4300012: F111cpy1
+    4300014: F111fram
+    4300016: F111cpy2
+    4300018: F111gls3
+    4300020: F111gls1
+    4300022: F111uh_r
+    4300024: F111piz
+    4300026: F111down
+    4300028: F111tail
+    4300030: F111blck
+    4300032: F111gear
+    4300034: F111gls2
+    4300036: F111seat
+    4300038: F111top
+    4300040: F111iron
+    4300042: F111red
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
